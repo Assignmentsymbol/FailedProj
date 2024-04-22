@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run Game" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="de.tum.cit.ase.maze.DesktopLauncher" />
+    <module name="fophn2324infun2324projectworkx-g312.beifen2.desktop.main" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="de.tum.cit.ase.maze.gameObjects.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
